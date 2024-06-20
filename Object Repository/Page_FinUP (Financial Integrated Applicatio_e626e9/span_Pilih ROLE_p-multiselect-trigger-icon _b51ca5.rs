@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih ROLE_p-multiselect-trigger-icon _b51ca5</name>
+   <tag></tag>
+   <elementGuidId>483a5d49-e00d-4493-9877-18fe5801b8a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-multiselect-trigger-icon.ng-tns-c101-53.pi.pi-chevron-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc9e143d-f217-474e-bd78-42adc7449335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-multiselect-trigger-icon ng-tns-c101-53 pi pi-chevron-down</value>
+      <webElementGuid>3264c374-4ff6-4cf1-b3ea-2ce267d8abcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-userman-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 -ml-1&quot;]/p-multiselect[@class=&quot;p-element p-inputwrapper p-multiselect-custom ng-tns-c101-53 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c101-53 p-multiselect p-component p-multiselect-chip&quot;]/div[@class=&quot;ng-tns-c101-53 p-multiselect-trigger&quot;]/span[@class=&quot;p-multiselect-trigger-icon ng-tns-c101-53 pi pi-chevron-down&quot;]</value>
+      <webElementGuid>383ead36-2b4c-4dad-9322-e183361bc0f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>18e456f4-7ffe-4b5a-8e30-85855bfd9592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

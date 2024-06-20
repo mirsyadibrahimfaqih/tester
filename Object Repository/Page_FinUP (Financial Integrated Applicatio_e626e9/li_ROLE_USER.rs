@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ROLE_USER</name>
+   <tag></tag>
+   <elementGuidId>793563a0-0a12-4ad8-8c2d-eaf8bca70792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ROLE_ADMIN'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5dc43f0e-5f5c-4e9f-8660-e75a6568982e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-multiselect-item</value>
+      <webElementGuid>73cf9a72-6aee-4e62-bae4-26f1b4e119de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>ROLE_USER</value>
+      <webElementGuid>c1b9b504-c484-49bf-82ab-4dce787ba4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c4e127bc-ac3b-4247-be1f-9afa6c2d6c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ROLE_USER</value>
+      <webElementGuid>626b511f-a286-490c-a478-0aa31acfe759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-userman-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 -ml-1&quot;]/p-multiselect[@class=&quot;p-element p-inputwrapper p-multiselect-custom ng-tns-c101-53 ng-untouched ng-pristine ng-valid ng-star-inserted p-inputwrapper-focus&quot;]/div[@class=&quot;ng-tns-c101-53 p-multiselect p-component p-multiselect-open p-multiselect-chip&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c101-53 p-multiselect-panel p-component ng-star-inserted&quot;]/div[@class=&quot;p-multiselect-items-wrapper ng-tns-c101-53&quot;]/ul[@class=&quot;p-multiselect-items p-component ng-tns-c101-53 ng-star-inserted&quot;]/p-multiselectitem[@class=&quot;p-element ng-tns-c101-53 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-multiselect-item&quot;]</value>
+      <webElementGuid>575ac97e-b159-40e2-8261-ba5f3b86d779</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROLE_ADMIN'])[1]/following::li[1]</value>
+      <webElementGuid>0bde6cd9-eca3-4231-891b-528182e40069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih ROLE'])[1]/following::li[2]</value>
+      <webElementGuid>b8e1a9d3-6c56-43e8-ab91-c0ba5f248a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROLE_SEKRETARIS'])[1]/preceding::li[1]</value>
+      <webElementGuid>263991ed-a042-426d-ab5e-8e6d7edc34a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-multiselectitem[2]/li</value>
+      <webElementGuid>586306e5-f9ed-4cb3-b1df-34c691e9aa98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ROLE_USER' or . = 'ROLE_USER')]</value>
+      <webElementGuid>2f930abb-7e9c-42f7-9bf9-a9bd3fdff775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

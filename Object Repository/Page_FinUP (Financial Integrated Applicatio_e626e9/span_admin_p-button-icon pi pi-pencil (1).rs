@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_admin_p-button-icon pi pi-pencil (1)</name>
+   <tag></tag>
+   <elementGuidId>ab6e7143-775f-4441-a9ec-3caf0e424753</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-icon.pi.pi-pencil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_4-table']/tbody/tr/td[9]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>79db7eb0-78d1-4896-a853-95665dfd3da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-icon pi pi-pencil</value>
+      <webElementGuid>7aa91c7a-c1b1-4cfc-8301-49fde1a536c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>92f49f3c-71b0-434e-84dd-624c2162a726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_4-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[9]/div[@class=&quot;flex&quot;]/button[@class=&quot;p-element p-button-sm p-button-success mr-2 p-button p-component p-button-icon-only&quot;]/span[@class=&quot;p-button-icon pi pi-pencil&quot;]</value>
+      <webElementGuid>d2336b6e-b6b7-41b6-a746-890dfc7d5706</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_4-table']/tbody/tr/td[9]/div/button/span</value>
+      <webElementGuid>ae24ef5a-510f-4e4a-b5bd-09552a2c1ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/button/span</value>
+      <webElementGuid>150f572f-21ac-412d-a9ea-9072806323fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

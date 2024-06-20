@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Unit Induk Distribusi Jawa Timur_svg-in_f2e92c (1)</name>
+   <tag></tag>
+   <elementGuidId>78bd2bca-6239-49aa-9328-fa0ff4520684</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Induk Distribusi Jawa Timur'])[5]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td:nth-of-type(7) > a.btn.btn-success > svg.svg-inline--fa.fa-eye.fa-w-18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ab085836-1131-44d1-8caa-936282b68237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-eye fa-w-18</value>
+      <webElementGuid>ceab3b08-555b-4263-9f3c-688f825f868a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3682d38f-a1e7-4eeb-882b-2e0e52a2b95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>f1454aed-b9a5-4809-b0ed-78f2d52fdcfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye</value>
+      <webElementGuid>7c60b118-4d51-4020-b487-489d59952c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>da764c54-c720-45d1-9a31-880e73ff71f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b12aec82-aa15-4729-ad1d-dbf58b4f5c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 576 512</value>
+      <webElementGuid>68ce2be7-9346-4c26-84d5-84a5f50935c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;w1&quot;)/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[2]/td[7]/a[@class=&quot;btn btn-success&quot;]/svg[@class=&quot;svg-inline--fa fa-eye fa-w-18&quot;]</value>
+      <webElementGuid>cfc541e9-3b5f-4f61-9731-4101aabcbbaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Induk Distribusi Jawa Timur'])[5]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fa4d6f5c-e972-4833-92b0-dd6ae386d938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagi Kebahagiaan Untuk Dhuafa (Dewasa)'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1ccc3d4d-2e47-4499-9845-7973f6a93bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PeTIK Jombang'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>109e53fd-91b7-4a25-9e55-90bc5af6481b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
